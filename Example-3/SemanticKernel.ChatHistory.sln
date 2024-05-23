@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SemanticKernel.ChatHistory", "SemanticKernel.ChatHistory.csproj", "{31DC6753-23B5-4E96-A1E7-800653D8EC28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31DC6753-23B5-4E96-A1E7-800653D8EC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31DC6753-23B5-4E96-A1E7-800653D8EC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31DC6753-23B5-4E96-A1E7-800653D8EC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31DC6753-23B5-4E96-A1E7-800653D8EC28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {088A0F91-6DC3-45B6-99F5-33CE5A3C44DC}
+	EndGlobalSection
+EndGlobal
